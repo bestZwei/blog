@@ -54,6 +54,17 @@ order: 5
     title="Friend Card"
   ></iframe>
 </div>
+<div style="max-width: 600px; margin: 0 auto;">
+  <iframe 
+    src="https://friendcards.zwei.de.eu.org?name=%E8%B0%88%E6%9D%82%E6%80%9D%E6%BC%AB&specialty=%E8%BF%99%E6%98%AF%E4%B8%80%E4%B8%AA%E9%9A%8F%E7%AC%94%E4%B9%B1%E8%AE%B0%E7%9A%84%E4%BE%BF%E6%9D%A1%E7%BA%B8%EF%BC%8C%E7%9C%8B%E5%88%B0%E5%95%A5%E5%B0%B1%E5%86%99%E5%95%A5&link=https%3A%2F%2Fmisc.zz.ac&avatar=https%3A%2F%2Fmisc.zz.ac%2Fwp-content%2Fuploads%2F2025%2F04%2Fnervous_hippo.jpg&bgcolor=linear-gradient%28135deg%2C+%23d1fae5%2C+%23dbeafe%29&linkcolor=%23ff2600&font=Noto+Serif+SC"
+    style="border: none; width: 100%; height: 195px; overflow: hidden;"
+    loading="lazy"
+    title="Friend Card"
+  ></iframe>
+</div>
+
+
+
 
 ---
 
