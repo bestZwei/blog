@@ -2,7 +2,7 @@
 title: 用 LibreWatermark 给你的原创文本加一道“隐形防线”
 date: 2025-4-25 09:58:40 +0800
 categories: [Tech] # 目前有 Demo, Tutorial, Tech, Study
-tags: [邮箱, 1Panel, 笔记]
+tags: [Watermark, Cyber Security]
 author: Zwei  # 或 authors: [Zwei, another_author]
 description: "本项目代码和本文均由 AIGC 辅助生成"
 image:
