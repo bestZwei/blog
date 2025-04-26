@@ -19,15 +19,15 @@ order: 5
     title="Friend Card"
   ></iframe>
 </div>
-
 <div style="max-width: 600px; margin: 0 auto;">
   <iframe 
-    src="https://friendcards.zwei.de.eu.org/?bgcolor=linear-gradient%28135deg%2C+%23ede9fe%2C+%23fae8ff%29&name=MasterKe%28%E6%9F%AF%E5%A4%A7%E5%B8%88%29&specialty=%E5%AE%9A%E6%A0%BC%E7%94%9F%E6%B4%BB%E7%9A%84%E7%BE%8E%E5%A5%BD%7E&link=https%3A%2F%2Fblog.masterke.cn&avatar=https%3A%2F%2Fmy-blog-picture-1301437686.cos.ap-nanjing.myqcloud.com%2F2024%252F07%252F24%252F1721836688.jpg"
+    src="https://friendcards.zwei.de.eu.org?name=MasterKe%28%E6%9F%AF%E5%A4%A7%E5%B8%88%29&specialty=%E5%AE%9A%E6%A0%BC%E7%94%9F%E6%B4%BB%E7%9A%84%E7%BE%8E%E5%A5%BD%7E&link=https%3A%2F%2Fblog.masterke.cn%2F&avatar=https%3A%2F%2Fimg.picgo.net%2F2025%2F04%2F26%2F2024_07_24_172183668863c846b5882ff044.md.jpg&bgcolor=linear-gradient%28135deg%2C+%23fef3c7%2C+%23fee2e2%29&linkcolor=%23ff2600&font=Noto+Serif+SC"
     style="border: none; width: 100%; height: 195px; overflow: hidden;"
     loading="lazy"
     title="Friend Card"
   ></iframe>
 </div>
+
 <div style="max-width: 600px; margin: 0 auto;">
   <iframe 
     src="https://friendcards.zwei.de.eu.org/?name=+Dale&specialty=Wir+m%C3%BCssen+wissen+%21+Wir+werden+wissen+%21&link=https%3A%2F%2Fwww.dalechu.cn&avatar=https://pic.imgdb.cn/item/653e45f4c458853aeff4d569.png"
@@ -36,10 +36,9 @@ order: 5
     title="Friend Card"
   ></iframe>
 </div>
-
 <div style="max-width: 600px; margin: 0 auto;">
   <iframe 
-    src="https://friendcards.zwei.de.eu.org?name=Comi+%E6%9B%A6%E6%96%B9&specialty=%E3%80%8C+%E5%85%B4%E5%A4%A9%E4%B8%8B%E4%B9%8B%E5%88%A9%EF%BC%8C%E9%99%A4%E5%A4%A9%E4%B8%8B%E4%B9%8B%E5%AE%B3+%E3%80%8D&link=https%3A%2F%2Fcomi.nets.hk%2F&bgcolor=linear-gradient%28135deg%2C+%23d1fae5%2C+%23dbeafe%29&textcolor=%23000000&linkcolor=%237c3aed"
+    src="https://friendcards.zwei.de.eu.org?name=Comi+%E6%9B%A6%E6%96%B9&specialty=%E3%80%8C+%E5%85%B4%E5%A4%A9%E4%B8%8B%E4%B9%8B%E5%88%A9%EF%BC%8C%E9%99%A4%E5%A4%A9%E4%B8%8B%E4%B9%8B%E5%AE%B3+%E3%80%8D&link=https%3A%2F%2Fcomi.nets.hk%2F&avatar=https%3A%2F%2Ffavicon.is-an.org%2F%3Fdomain%3Dhttps%3A%2F%2Fcomi.nets.hk%2F%26sz%3D128&bgcolor=linear-gradient%28135deg%2C+%23d1fae5%2C+%23dbeafe%29&linkcolor=%23ff2600&font=ZCOOL+XiaoWei"
     style="border: none; width: 100%; height: 195px; overflow: hidden;"
     loading="lazy"
     title="Friend Card"
@@ -56,15 +55,12 @@ order: 5
 </div>
 <div style="max-width: 600px; margin: 0 auto;">
   <iframe 
-    src="https://friendcards.zwei.de.eu.org?name=%E8%B0%88%E6%9D%82%E6%80%9D%E6%BC%AB&specialty=%E8%BF%99%E6%98%AF%E4%B8%80%E4%B8%AA%E9%9A%8F%E7%AC%94%E4%B9%B1%E8%AE%B0%E7%9A%84%E4%BE%BF%E6%9D%A1%E7%BA%B8%EF%BC%8C%E7%9C%8B%E5%88%B0%E5%95%A5%E5%B0%B1%E5%86%99%E5%95%A5&link=https%3A%2F%2Fmisc.zz.ac&avatar=https%3A%2F%2Fmisc.zz.ac%2Fwp-content%2Fuploads%2F2025%2F04%2Fnervous_hippo.jpg&bgcolor=linear-gradient%28135deg%2C+%23d1fae5%2C+%23dbeafe%29&linkcolor=%23ff2600&font=Noto+Serif+SC"
+    src="https://friendcards.zwei.de.eu.org?name=%E8%B0%88%E6%9D%82%E6%80%9D%E6%BC%AB&specialty=%E8%BF%99%E6%98%AF%E4%B8%80%E4%B8%AA%E9%9A%8F%E7%AC%94%E4%B9%B1%E8%AE%B0%E7%9A%84%E4%BE%BF%E6%9D%A1%E7%BA%B8%EF%BC%8C%E7%9C%8B%E5%88%B0%E5%95%A5%E5%B0%B1%E5%86%99%E5%95%A5&link=https%3A%2F%2Fmisc.zz.ac&avatar=https%3A%2F%2Fmisc.zz.ac%2Fwp-content%2Fuploads%2F2025%2F04%2Fnervous_hippo.jpg&bgcolor=linear-gradient%28135deg%2C+%23e0e7ff%2C+%23f0f4f6%29&linkcolor=%23ff2600&font=Ma+Shan+Zheng"
     style="border: none; width: 100%; height: 195px; overflow: hidden;"
     loading="lazy"
     title="Friend Card"
   ></iframe>
 </div>
-
-
-
 
 ---
 
