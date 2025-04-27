@@ -6,10 +6,9 @@ order: 5
 ---
 <div style="text-align: center; margin-bottom: 20px;">
   <p>🔗这些是我可爱的朋友们，快来看看吧！🔗</p>
-  <a href="mailto:post@zwei.de.eu.org">交换友链</a> ✉  <a href="https://friendcard.is-an.org/">友链卡片生成器</a>
+  <a href="mailto:post@zwei.de.eu.org">交换友链</a> ✉ | 可以在 <a href="https://friendcard.is-an.org/">友链卡片生成器</a> 填入信息，将 iframe 代码复制给我
 </div>
 <hr>
-
 
 <div style="max-width: 600px; margin: 0 auto;">
   <iframe 
@@ -27,7 +26,6 @@ order: 5
     title="Friend Card"
   ></iframe>
 </div>
-
 <div style="max-width: 600px; margin: 0 auto;">
   <iframe 
     src="https://friendcards.zwei.de.eu.org/?name=+Dale&specialty=Wir+m%C3%BCssen+wissen+%21+Wir+werden+wissen+%21&link=https%3A%2F%2Fwww.dalechu.cn&avatar=https://pic.imgdb.cn/item/653e45f4c458853aeff4d569.png"
@@ -44,7 +42,14 @@ order: 5
     title="Friend Card"
   ></iframe>
 </div>
-
+<div style="max-width: 600px; margin: 0 auto;">
+  <iframe 
+    src="https://friendcards.zwei.de.eu.org?name=%E4%BF%A1%E4%B9%9F%E3%81%AE%E3%83%96%E3%83%AD%E3%82%B0&specialty=%E4%B8%80%E5%86%99%E4%BB%A3%E7%A0%81%E7%9A%84&link=https%3A%2F%2Fshinya.click%2F&avatar=https%3A%2F%2Fshinya.click%2Flogo.png&bgcolor=linear-gradient%28135deg%2C+%23d1fae5%2C+%23dbeafe%29&linkcolor=%23ff2600&font=Ma+Shan+Zheng"
+    style="border: none; width: 100%; height: 195px; overflow: hidden;"
+    loading="lazy"
+    title="Friend Card"
+  ></iframe>
+</div>
 <div style="max-width: 600px; margin: 0 auto;">
   <iframe 
     src="https://friendcards.zwei.de.eu.org?name=Handsome&specialty=%E5%BF%83%E8%8B%A5%E6%9C%89%E6%89%80%E5%90%91%E5%BE%80%EF%BC%8C%E4%BD%95%E6%83%A7%E9%81%93%E9%98%BB%E4%B8%94%E9%95%BF&link=https%3A%2F%2Fwww.lik.cc&avatar=https%3A%2F%2Fwww.lik.cc%2Fupload%2Flogo.png&bgcolor=linear-gradient%28135deg%2C+%23a7f3d0%2C+%2393c5fd%29&textcolor=%235e25f8&linkcolor=%23ff2600&font=Noto+Serif+SC"
