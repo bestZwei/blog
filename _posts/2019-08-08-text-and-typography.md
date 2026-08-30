@@ -98,7 +98,7 @@ Moon
 
 ## Footnote
 
-Click the hook will locate the footnote[^footnote], and here is another footnote[^fn-nth-2].
+Clicking the hook will locate the footnote[^footnote], and here is another footnote[^fn-nth-2].
 
 ## Inline code
 
@@ -112,7 +112,8 @@ Here is the `/path/to/the/file.extend`{: .filepath}.
 
 ### Common
 
-```text
+<!-- markdownlint-disable-next-line MD040 -->
+```
 This is a common code snippet, without syntax highlight and line number.
 ```
 

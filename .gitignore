@@ -24,3 +24,9 @@ package-lock.json
 
 # Misc
 _sass/dist
+_sass/vendors
+
+# Hidden system files
+*~
+.DS_Store
+Thumbs.db
