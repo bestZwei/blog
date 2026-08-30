@@ -30,3 +30,6 @@ _sass/vendors
 *~
 .DS_Store
 Thumbs.db
+
+# Local tool state
+.mimosa/
