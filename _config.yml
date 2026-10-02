@@ -125,7 +125,7 @@ comments:
   waline:
     server: "https://comment.zwei.de.eu.org"  
     lang: zh-CN  # 设置语言
-    dark: auto  # 暗黑模式适配
+    dark: 'html[data-bs-theme="dark"]'  # 暗黑模式适配：跟随站内主题切换（Chirpy 切换时在 html 上设置 data-bs-theme）
     pageview: true # 浏览量统计
 
 # Self-hosted static assets, optional › https://github.com/cotes2020/chirpy-static-assets
