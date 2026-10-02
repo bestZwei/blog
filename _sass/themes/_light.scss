@@ -16,9 +16,10 @@
   --link-underline-color: #99badd; /* 浅蓝色下划线，增强链接可见性 */
   --button-bg: linear-gradient(
     to bottom,
-    rgba(247, 183, 163, 0.8),
-    rgba(245, 160, 141, 0.8)
+    rgb(247 183 163 / 80%),
+    rgb(245 160 141 / 80%)
   ); /* 柔和的粉橙色按钮背景渐变 */
+
   --btn-border-color: #e1e1e1; /* 浅灰色按钮边框 */
   --btn-backtotop-color: #5a5a5a; /* 返回顶部按钮颜色 */
   --btn-backtotop-border-color: #dddddd; /* 返回顶部按钮边框颜色 */
@@ -27,10 +28,11 @@
   --img-bg: radial-gradient(circle, #ffffff 0%, #f1f1f1 100%); /* 图像背景的径向渐变 */
   --shimmer-bg: linear-gradient(
     90deg,
-    rgba(250, 250, 250, 0) 0%,
-    rgba(232, 230, 230, 1) 50%,
-    rgba(250, 250, 250, 0) 100%
+    rgb(250 250 250 / 0%) 0%,
+    rgb(232 230 230 / 100%) 50%,
+    rgb(250 250 250 / 0%) 100%
   ); /* 闪烁效果的线性渐变 */
+
   --menu-bg: white;
   --menu-border-color: white;
   --menu-shadow-color: rgb(0 0 0 / 16%);
@@ -46,9 +48,10 @@
   --sidebar-active-color: #1d1d1d; /* 侧边栏活动项颜色 */
   --sidebar-hover-bg: linear-gradient(
     to right,
-    rgba(223, 233, 241, 0.8),
-    rgba(200, 220, 230, 0.8)
+    rgb(223 233 241 / 80%),
+    rgb(200 220 230 / 80%)
   ); /* 侧边栏悬停背景渐变 */
+
   --sidebar-btn-bg: linear-gradient(to bottom, #ffffff, #f0f0f0); /* 侧边栏按钮背景渐变 */
   --sidebar-btn-color: #8e8e8e; /* 侧边栏按钮颜色 */
   --avatar-border-color: #f0f0f0; /* 头像边框颜色 */
@@ -73,7 +76,8 @@
   --card-bg: linear-gradient(to bottom, #ffffff, #f8f8f8); /* 卡片背景渐变 */
   --card-hover-bg: linear-gradient(to bottom, #e2e2e2, #dcdcdc); /* 卡片悬停背景渐变 */
   --card-shadow:
-    rgba(0, 0, 0, 0.08) 0 2px 4px, rgba(0, 0, 0, 0.08) 0 0 0 1px; /* 柔和的卡片阴影 */
+    rgb(0 0 0 / 8%) 0 2px 4px, rgb(0 0 0 / 8%) 0 0 0 1px; /* 柔和的卡片阴影 */
+
   --footnote-target-bg: lightcyan; /* 脚注目标背景颜色 */
   --tb-odd-bg: #f0f0f0; /* 表格奇数行背景颜色，柔和的浅灰色 */
   --tb-border-color: #dcdcdc; /* 表格边框颜色，浅灰色 */
@@ -81,14 +85,14 @@
   --kbd-wrap-color: #bdbdbd; /* 键盘包裹颜色 */
   --kbd-text-color: var(--text-color); /* 键盘文本颜色 */
   --kbd-bg-color: white; /* 键盘背景颜色 */
-  --prompt-text-color: rgba(46, 46, 46, 0.77); /* 提示文本颜色 */
-  --prompt-tip-bg: rgba(123, 247, 144, 0.2); /* 提示背景颜色 */
+  --prompt-text-color: rgb(46 46 46 / 77%); /* 提示文本颜色 */
+  --prompt-tip-bg: rgb(123 247 144 / 20%); /* 提示背景颜色 */
   --prompt-tip-icon-color: #03b303; /* 提示图标颜色 */
   --prompt-info-bg: #e1f5fe; /* 信息提示背景颜色 */
   --prompt-info-icon-color: #0070cb; /* 信息提示图标颜色 */
-  --prompt-warning-bg: rgb(255, 243, 205); /* 警告提示背景颜色 */
+  --prompt-warning-bg: rgb(255 243 205); /* 警告提示背景颜色 */
   --prompt-warning-icon-color: #ef9c03; /* 警告提示图标颜色 */
-  --prompt-danger-bg: rgba(248, 215, 218, 0.56); /* 危险提示背景颜色 */
+  --prompt-danger-bg: rgb(248 215 218 / 56%); /* 危险提示背景颜色 */
   --prompt-danger-icon-color: #df3c30; /* 危险提示图标颜色 */
 
   /* Tags */
@@ -98,12 +102,12 @@
   --search-tag-bg: #f8f9fa; /* 搜索标签背景颜色 */
 
   /* Categories */
-  --categories-border: rgba(0, 0, 0, 0.125); /* 分类边框颜色 */
+  --categories-border: rgb(0 0 0 / 12.5%); /* 分类边框颜色 */
   --categories-hover-bg: linear-gradient(to bottom, #f0f0f0, #e0e0e0); /* 分类悬停背景渐变 */
   --categories-icon-hover-color: darkslategray; /* 分类图标悬停颜色 */
 
   /* Archive */
-  --timeline-color: rgba(0, 0, 0, 0.075); /* 时间线颜色 */
+  --timeline-color: rgb(0 0 0 / 7.5%); /* 时间线颜色 */
   --timeline-node-bg: #c2c6cc; /* 时间线节点背景颜色 */
   --timeline-year-dot-color: #ffffff; /* 时间线年份点颜色 */
 
@@ -120,7 +124,7 @@
   --clipboard-checked-color: #43c743;
 
   [class^='prompt-'] {
-    --link-underline-color: rgb(219, 216, 216); /* 提示链接下划线颜色 */
+    --link-underline-color: rgb(219 216 216); /* 提示链接下划线颜色 */
   }
 
   .dark {
@@ -140,9 +144,9 @@
   a:hover,
   button:hover,
   .btn:hover {
-    background-color: rgba(0, 102, 204, 0.1); /* 柔和的蓝色悬停背景 */
+    background-color: rgb(0 102 204 / 10%); /* 柔和的蓝色悬停背景 */
     color: #0056b3; /* 深蓝色悬停文本颜色 */
-    box-shadow: rgba(0, 0, 0, 0.1) 0 2px 4px; /* 柔和的悬停阴影 */
+    box-shadow: rgb(0 0 0 / 10%) 0 2px 4px; /* 柔和的悬停阴影 */
   }
 
   /* --- Syntax highlight theme from `rougify style github` --- */
