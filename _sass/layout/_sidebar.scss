@@ -124,6 +124,7 @@ $sidebar-display: 'sidebar-display'; /* the attribute for sidebar display */
   }
 
   ul {
+    margin-top: 0.5rem;
     margin-bottom: 2rem;
 
     li.nav-item {
@@ -343,4 +344,8 @@ $sidebar-display: 'sidebar-display'; /* the attribute for sidebar display */
       transform: translateX(v.$sidebar-width);
     }
   }
+
+  /* the translated #main-wrapper widens the layout below lg;
+     clamp it so the page can not be panned horizontally while the drawer is open */
+  overflow-x: hidden;
 }
