@@ -15,6 +15,9 @@ $sidebar-display: 'sidebar-display'; /* the attribute for sidebar display */
   left: 0;
   height: 100%;
   overflow-y: auto;
+
+  /* vertical touch scrolling stays native; horizontal drags are left to JS (swipe-to-close) */
+  touch-action: pan-y;
   width: v.$sidebar-width;
   background: var(--sidebar-bg);
 
@@ -345,7 +348,7 @@ $sidebar-display: 'sidebar-display'; /* the attribute for sidebar display */
     }
   }
 
-  /* the translated #main-wrapper widens the layout below lg;
-     clamp it so the page can not be panned horizontally while the drawer is open */
-  overflow-x: hidden;
+  /* lock background scrolling (both axes) while the drawer is open; the translated
+     #main-wrapper would otherwise widen the layout below lg */
+  overflow: hidden;
 }
